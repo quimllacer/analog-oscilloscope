@@ -4,16 +4,16 @@ on the internet for reference.
 
 # Commands
 The script initializes to the following state:
-> f:mesh status:on name:octahedron
-> f:mic status:on
-> f:waves status:on n:0 wf:50 rate:0.001
-> f:rotx status:on n: 0, angle: 0, rate:0.0030
-> f:roty status:on n: 0, angle: 0, rate:0.0020
-> f:rotz status:on n: 0, angle: 0, rate:0.0010
+* > f:mesh status:on name:octahedron
+* > f:mic status:on
+* > f:waves status:on n:0 wf:50 rate:0.001
+* > f:rotx status:on n: 0, angle: 0, rate:0.0030
+* > f:roty status:on n: 0, angle: 0, rate:0.0020
+* > f:rotz status:on n: 0, angle: 0, rate:0.0010
 
 The user can change the state of the script by entering the following command in the terminal -while the script is running-:
 
-> function parameter value
+> function parameter value\
 
 Here are a few command examples:
 1. > mesh name cube
