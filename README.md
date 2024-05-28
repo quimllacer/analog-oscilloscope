@@ -1,6 +1,5 @@
 # Purpose
-The purpose of this repository is render images or animations as stereo sound. This stereo sound can be then visualized in an oscilloscope. Search for
-> Oscilloscope music
+The purpose of this repository is render images or animations as stereo sound. This stereo sound can be then visualized in an oscilloscope. Search for "oscilloscope music"
 on the internet for reference.
 
 # Commands
